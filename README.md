@@ -2,7 +2,13 @@
 
 <!DOCTYPE html>
 <html>
-window.alert("welcome + buddy!");
+
+<button onclick="myFunction()">click dis!</button>
+
+<script>
+function myFunction() {
+    alert("Hello welcome to my page!");
+    
 <head>
 <title>Page Title</title>
 </head>

@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-window.alert(welcome + buddy!);
+window.alert("welcome + buddy!");
 <head>
 <title>Page Title</title>
 </head>

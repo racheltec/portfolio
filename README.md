@@ -2,6 +2,11 @@
 
 <!DOCTYPE html>
 <html>
+<button onclick="myFunction()">click this!</button>
+
+<script>
+function myFunction() {
+    alert("welcom buddy:)");
 <head>
 <title>Page Title</title>
 </head>

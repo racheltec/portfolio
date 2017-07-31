@@ -10,7 +10,7 @@
 
 <script>
 function myFunction() {
-    alert("Hello welcome to my page!");
+    alert("Hello welcome to my page!");}
     </script>
     
 <h1>Rachel Tecayehuatl </h1>

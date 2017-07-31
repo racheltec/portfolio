@@ -1,5 +1,4 @@
 # portfolio
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,5 +30,8 @@ function myFunction() {
 <h1> Attending Lincoln High School </h1> <img src="https://www.tacomaschools.org/schools/innovative/Lincoln_innovative/lincoln_01.JPG" atl="lincoln" style="width:150px;height:150px;">
 <p> Starting my Junior year 2017-2018 </p>
 <p>will graduate in the year 2019 </p>
-<p>   <button type="button" onclick="myFunction()">Change Color</button>
 
+<h1> Social Media</h1>
+<p> <a href="https://www.instagram.com/ratdeady/">instagram </a> </p>
+  
+<p> <a href="https://www.twitter.com/yophangurl"> twitter </a> </p>

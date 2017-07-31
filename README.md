@@ -2,18 +2,16 @@
 
 <!DOCTYPE html>
 <html>
-
+<head>
+<title>Page Title</title>
+</head>
+<body>
 <button onclick="myFunction()">click dis!</button>
 
 <script>
 function myFunction() {
     alert("Hello welcome to my page!");
     
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
 <h1>Rachel Tecayehuatl </h1>
 <p>My portfolio containing everthing about me such as my interest contacts and groups i'm apart of.</p>
 

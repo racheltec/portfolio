@@ -2,11 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<button onclick="myFunction()">click this!</button>
-
-<script>
-function myFunction() {
-    alert("welcom buddy:)");
+window.alert(welcome + buddy!);
 <head>
 <title>Page Title</title>
 </head>

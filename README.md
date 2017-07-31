@@ -11,6 +11,7 @@
 <script>
 function myFunction() {
     alert("Hello welcome to my page!");
+    </script>
     
 <h1>Rachel Tecayehuatl </h1>
 <p>My portfolio containing everthing about me such as my interest contacts and groups i'm apart of.</p>

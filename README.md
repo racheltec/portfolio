@@ -13,6 +13,7 @@ function myFunction() {
     alert("Hello welcome to my page!");}
     </script>
     
+    
 <h1>Rachel Tecayehuatl </h1>
 <p>My portfolio containing everthing about me such as my interest contacts and groups i'm apart of.</p>
 
@@ -30,18 +31,5 @@ function myFunction() {
 <h1> Attending Lincoln High School </h1> <img src="https://www.tacomaschools.org/schools/innovative/Lincoln_innovative/lincoln_01.JPG" atl="lincoln" style="width:150px;height:150px;">
 <p> Starting my Junior year 2017-2018 </p>
 <p>will graduate in the year 2019 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>   <button type="button" onclick="myFunction()">Change Color</button>
 

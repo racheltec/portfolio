@@ -34,4 +34,4 @@ function myFunction() {
 <h1> Social Media</h1>
 <p> <a href="https://www.instagram.com/ratdeady/">instagram </a> </p>
   
-<p> <a href="https://www.twitter.com/yophangurl"> twitter </a> </p>
+<p> <a href="https://twitter.com"> twitter </a> </p>
